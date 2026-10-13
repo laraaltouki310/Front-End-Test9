@@ -110,6 +110,7 @@ textarea{
     border-bottom: 2px solid black;
     margin-left: 50px;
     margin-top: 17px;
+    height: 20px;
     width: 350px;
     resize: none;
 }
